@@ -1,97 +1,93 @@
 # 📦 StoreManager
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/PavelAhmmedHridoy077/StoreManager/total?style=for-the-badge">
-  <img src="https://img.shields.io/github/v/release/PavelAhmmedHridoy077/StoreManager?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/PavelAhmmedHridoy077/StoreManager?style=for-the-badge">
+  <img src="https://img.shields.io/github/v/release/PavelAhmmedHridoy077/StoreManager?style=for-the-badge" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/PavelAhmmedHridoy077/StoreManager/total?style=for-the-badge" alt="Downloads">
+  <img src="https://img.shields.io/github/license/PavelAhmmedHridoy077/StoreManager?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
-<b>Modern Offline Store & Inventory Management App for Android</b>
+  <h3>Modern Offline Store & Inventory Management App for Android</h3>
+  <p>Manage products, inventory, stock, expiry dates, and profits completely offline.</p>
 </p>
 
 ---
 
-# 📥 Download
+## 📥 Download
 
-## ⬇️ Latest APK
+### 🚀 Latest APK
 
-https://github.com/PavelAhmmedHridoy077/StoreManager/releases/latest
+**➡️ https://github.com/PavelAhmmedHridoy077/StoreManager/releases/latest**
 
 ---
 
-# ✨ Features
+## 📱 App Preview
+
+<p align="center">
+  <img src="screenshots/overview.png" alt="StoreManager Preview" width="100%">
+</p>
+
+---
+
+## ✨ Features
 
 - 📦 Inventory Management
 - 🛒 Product Management
-- 📂 Category Management
-- 📏 Unit Management
+- 🏷️ Categories & Units
 - 📊 Profit Calculator
+- 📅 Expiry Date Tracking
 - 🔔 Low Stock Alerts
-- 📅 Expiry Tracking
-- 🌙 Dark Mode
+- 🔍 Smart Search
+- 🌙 Dark & Light Theme
 - 🎨 Theme Customization
 - 💾 Offline Storage
-- ⚡ Fast Performance
+- ⚡ Fast & Lightweight
+- 🔒 Privacy Focused
 
 ---
 
-# 📱 Screenshots
+## 📱 Requirements
 
-<p align="center">
-<img src="screenshots/1.png" width="220">
-<img src="screenshots/2.png" width="220">
-<img src="screenshots/3.png" width="220">
-</p>
-
-<p align="center">
-<img src="screenshots/4.png" width="220">
-<img src="screenshots/5.png" width="220">
-<img src="screenshots/6.png" width="220">
-</p>
-
-<p align="center">
-<img src="screenshots/7.png" width="220">
-<img src="screenshots/8.png" width="220">
-<img src="screenshots/9.png" width="220">
-</p>
-
-<p align="center">
-<img src="screenshots/10.png" width="220">
-<img src="screenshots/11.png" width="220">
-<img src="screenshots/12.png" width="220">
-</p>
-
----
-
-# 📱 Requirements
-
-- Android 8.0+
+- Android 8.0 (API 26) or later
 - ARM64 Recommended
 
 ---
 
-# 📥 Installation
+## 📥 Installation
 
 1. Download the latest APK.
-2. Install it.
-3. Open StoreManager.
-4. Enjoy!
+2. Enable **Install Unknown Apps** if prompted.
+3. Install the APK.
+4. Launch **StoreManager**.
 
 ---
 
-# 🔄 Updates
+## 🔄 Updates
 
-Always download the newest version:
+Every new version is available from the latest GitHub Release:
 
-https://github.com/PavelAhmmedHridoy077/StoreManager/releases/latest
+**https://github.com/PavelAhmmedHridoy077/StoreManager/releases/latest**
 
 ---
 
-# 👨‍💻 Developer
+## 👨‍💻 Developer
 
 **Pavel Ahmmed Hridoy**
 
-⭐ If you like this app, please Star this repository.
+Junior Frontend & Mobile App Developer
 
-© 2026 Pavel Ahmmed Hridoy. All Rights Reserved.
+GitHub: https://github.com/PavelAhmmedHridoy077
+
+---
+
+## ⭐ Support
+
+If you enjoy StoreManager, please consider giving this repository a ⭐.
+
+---
+
+## 📄 License
+
+This project is distributed as an APK only.
+
+Copyright © 2026 Pavel Ahmmed Hridoy. All Rights Reserved.
